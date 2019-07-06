@@ -7,12 +7,14 @@
     <code>node csv-to-json-converter.js 'your-path-to-a-csv-file'</code>
 
 <h2>Description</h2>
-This program simply converts a csv file into a json file, using the 'csvtojson' module.
-
-If user do not provide a csv file, it will takes the customer-data.csv from the project directory for input
-The output file is named output.json and will be saved at user's desktop.
- 
-If there is already a output.json file at desktop, the newest will replaced without warning.
+<p>
+    This program simply converts a csv file into a json file, using the 'csvtojson' module.
+    
+    If user do not provide a csv file, it will takes the customer-data.csv from the project directory for input.
+    The output file is named output.json and will be saved at user's desktop.
+    
+    If there is already a output.json file at desktop, the newest will replaced without warning.
+</p>
 
 <h2>Assignment's questions</h2>
 <h3>1. Walk us through the design of your project. Why did you design your project the way you did? What difficulties did you overcome?<br/></h3>
