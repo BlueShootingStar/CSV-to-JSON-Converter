@@ -19,7 +19,7 @@
 
 <h2>Assignment's questions</h2>
 <h3>1. Walk us through the design of your project. Why did you design your project the way you did? What difficulties did you overcome?<br/></h3>
-First, i include modules which is needed, especially 'csvtojson' module. I chose to use a pre-released module in order not to re-invent the wheel.
+First, i include modules which are needed, especially 'csvtojson' module. I chose to use a pre-released module in order not to re-invent the wheel.
 
 <h3>2. How did you test your project to verify that it works?<br/></h3>
 I simply run the 'csv-to-json-converter.js' then open the output file to check.
